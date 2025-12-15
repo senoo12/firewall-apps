@@ -7,10 +7,6 @@ class FirewallEngine:
 
     @staticmethod
     def apply_rules(packet):
-        """
-        Memproses satu paket dan menentukan apakah 'allow' atau 'block'.
-        """
-
         rules = RuleRepository.get_all()
 
         # Ambil informasi paket

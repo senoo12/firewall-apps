@@ -16,7 +16,7 @@ class Rule(models.Model):
     action = models.CharField(
         max_length=10,
         choices=ACTION_CHOICES,
-        default="allow"
+        default="allow" 
     )
 
     description = models.TextField(null=True, blank=True)
