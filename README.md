@@ -123,3 +123,6 @@ Dashboard Add Rule Page
 - [@Justme-dev-lab](https://www.github.com/Justme-dev-lab)
 - [@HaikalFrds](https://www.github.com/HaikalFrds)
 - [@KrisGG31](https://www.github.com/KrisGG31)
+- [@hanhendra](https://www.github.com/hanhendra)
+- Ivan Maulana Pramudita
+- Rafi Haritsya Fajar
