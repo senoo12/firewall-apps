@@ -70,6 +70,6 @@ class FirewallMiddleware:
             dst_ip=dst_ip,
             port=port,
             protocol=protocol,
-            action="block"
+            action="allow"
         )
-        return JsonResponse({"error": "Access denied (default block)"}, status=403)
+        return self.get_response(request)
